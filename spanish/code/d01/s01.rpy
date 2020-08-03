@@ -136,7 +136,7 @@ translate spanish d01s01_c7996105:
 translate spanish d01s01_0ace8bbf:
 
     # mct "She looks like an interesting person... {w}I would love to date her."
-    mct "She looks like an interesting person... {w}Me encantaría salir con ella."
+    mct "Se la ve muy interesante... {w}Me encantaría salir con ella."
 
 # game/code/d01/s01.rpy:66
 translate spanish d01s01_f3a9ab90:
